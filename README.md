@@ -178,6 +178,3 @@ source('survival.R')
 source('KtoR_enrichment.R')
 source('cellline_experiment.R')
 ```
-## License
-
-This project is distributed under the MIT License. See [LICENSE](LICENSE) for details.
